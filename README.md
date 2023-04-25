@@ -1,4 +1,4 @@
-# Node.js random emoji generator
+# Node.js Random Emoji Generator
 
 generates random emojis on the command line
 
